@@ -1,0 +1,42 @@
+main(main mathod)
+syso()	
+clrt + shif + x	(upper)
+clrt + shif + y (lower)
+clrt + shif + o (import)
+clrt + shif + f (formate)
+clrt + I (Indent)
+alt + shif + r (rename)
+clrt + 2,R (Rename)
+clrt + l (goto line)
+clrt + o (all method)
+clrt + shift + ^ (key) goto next mmethod
+f11 (run)
+alt + up and down key(move line)
+font change 
+clrt + shift + t(open class method)
+clrt + shift + R(your class)
+clrt + / (comment)
+clrt + shift + c (comment)
+clrt + shift + c (multiple comment)
+clrt + shift + / (multiple line comment)
+clrt + / (comment)
+clrt + / (comment remove)
+clrt + d (line delete)
+clrt + q (last edit)
+clrt + e (show active tab list)
+f3 (show class details)
+clrt + select (class name ) goto class
+clrt + shift + L (all short key)
+clrt + F (Find something)
+alt + shift + z (surrounding with something)
+alt + shift + m (creating a method with the details code)
+clrt + shift + U (details code about that selected zone)(search tab)
+** cursor problem ?? press (number)
+ Comment Documentation 
+ clrt+spacebar
+
+
+
+
+
+

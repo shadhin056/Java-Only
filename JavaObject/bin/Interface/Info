@@ -1,0 +1,3 @@
+one interface can extends twice interface
+they are abstract , final(variable),public.
+one class can implement twice interface

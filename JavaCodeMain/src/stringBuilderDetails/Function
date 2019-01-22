@@ -1,0 +1,18 @@
+buffer.toString()
+buffer.length()
+buffer.capacity()
+buffer.charAt(0)
+char[] charArray = new char[buffer.length()];
+		buffer.getChars(0, buffer.length(), charArray, 0);
+		(Copies characters from a StringBuilder)
+		void getChars(int sourceStart, int sourceEnd, char target[ ], int targetStart)
+buffer.reverse()
+buffer.setCharAt(4, '5');
+buffer.append
+buffer.insert(6, charArray, 3, 3);
+buffer.deleteCharAt(19);
+buffer.delete(6,26);
+sb.setLength
+sb.replace(5, 7, "was");
+sb.indexOf("one");
+sb.lastIndexOf("one");

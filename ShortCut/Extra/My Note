@@ -1,0 +1,27 @@
+Static and NonStatic :
+two type of member in a class
+1.variable
+2.function
+
+variable two type
+1.(*)Global/instance
+(*)Global/static 
+2.()Local variable
+
+()static member function can access static variable .
+()non static member function can access static variable .
+()Global/instance variable can not 
+if u want to use this in static function then use object.
+Ex:object.nonStaticVariable
+()protected class ke subclass access korte pare
+()default same package
+()constructor can be private 
+and no extend , no object and static ,constant variable thakbe
+()try catch e finally thakteo pare nao pare
+()and catch e sub class upore thakte pare and super class niche thakbe if two catch in the block
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+/* Type of Nested Classes
+ * there are two type of nested classes 
+ * (1)non-static nested(inner Class)
+ * (2)static nested
+ * 
+ * (1)non-static nested class (inner class)
+ * (a) member inner class
+ * (b) Annomynous inner class(interface and abstract)
+ * (c) Local inner class(inside the method )
+ * */
+

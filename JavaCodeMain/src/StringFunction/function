@@ -1,0 +1,27 @@
+charAt()
+a.compareTo(b)
+a.compareToIgnoreCase(c)
+a.concat(b)
+c.contains(a)
+str1.contentEquals( str2 )
+Str.endsWith( "immutable!!" )
+c.equals(obj)
+a.equalsIgnoreCase(b)
+a.indexOf('u')
+Integer.toString(a)
+a.length()
+a.matches("(.*)Welcome(.*)")
+a.replace('o', 'x')
+Str.replaceAll("Tutorials", "AMROOD");
+Str.startsWith
+Double.parseDouble(a)
+Integer.parseInt(a[0]);
+Str.subSequence(0, 10) 
+Str.substring(10)
+Str.toCharArray()
+Str.toLowerCase()
+obj.toString()
+Str.toUpperCase()
+Str.trim()
+a==b
+String.valueOf(c)
